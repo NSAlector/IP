@@ -1,4 +1,4 @@
-# argus_test
+# console_image_processor
 
 Do the following steps to use  argus_test application.
 
